@@ -27,8 +27,6 @@ Bulldozer and bundle with Linkit 7697 and ROBOT Shield
 -. M3 18mm 螺絲 * 7 顆
 -. LED *3 顆
 -. 100歐姆 電阻接LED用
--. 好朋友義氣相挺 (選配)
--. 人品 (必備)
 
 資料參考
 - Linkit 7697 official web page https://labs.mediatek.com/en
