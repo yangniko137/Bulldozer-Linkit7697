@@ -9,11 +9,14 @@ Bulldozer and bundle with Linkit 7697 and ROBOT Shield
 
 如果您有製作過此類小山貓請注意接腳不同..在下面程式碼的開始處有註解;
 程式新增功能包括:電壓顯示-燈光開關-弱電警示燈-喇吧開關-鏟钭微調等;
-感謝 George大大無私分享的3D檔案和程式碼;
 
-3D列印模型(ShinWeiChio) https://www.thingiverse.com/thing:3330288 ;
-程式碼(彰彰版 V0.9) https://github.com/yangniko137/Bulldozer-Linkit7697 ;
-介紹 https://youtu.be/gz2TFqqiK9Y   ;
+感謝 George大大無私分享的3D檔案和程式碼
+
+3D列印模型(ShinWeiChio) https://www.thingiverse.com/thing:3330288 
+
+程式碼(彰彰版 V0.9) https://github.com/yangniko137/Bulldozer-Linkit7697 
+
+介紹 https://youtu.be/gz2TFqqiK9Y   
 
 零件清單：
 -. 樂高LEGO 料號 43903 * 2條 (或使用 TPU 材質自行列印亦可) ;
@@ -28,5 +31,6 @@ Bulldozer and bundle with Linkit 7697 and ROBOT Shield
 - Linkit 7697 ADC https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/developer-guide/adc   ;
 - Mini-plan ROBOT Shield https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/kits-and-shields/robot-shield   ;
 
-Regards, ;
+Regards, 
+
 Niko Yang 2019,11,28 Taiwan ;
