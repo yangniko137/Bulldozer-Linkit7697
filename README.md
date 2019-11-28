@@ -11,9 +11,9 @@ Bulldozer and bundle with Linkit 7697 and ROBOT Shield
 程式新增功能包括:電壓顯示-燈光開關-弱電警示燈-喇吧開關-鏟钭微調等
 感謝 George大大無私分享的3D檔案和程式碼
 
-3D列印模型(ShinWeiChio) https://www.thingiverse.com/thing:3330288
-程式碼(彰彰版 V0.9) https://github.com/yangniko137/Bulldozer-Linkit7697
-介紹 https://youtu.be/gz2TFqqiK9Y
+3D列印模型(ShinWeiChio) https://www.thingiverse.com/thing:3330288 
+程式碼(彰彰版 V0.9) https://github.com/yangniko137/Bulldozer-Linkit7697 
+介紹 https://youtu.be/gz2TFqqiK9Y 
 
 零件清單：
 -. 樂高LEGO 料號 43903 * 2條 (或使用 TPU 材質自行列印亦可) 
