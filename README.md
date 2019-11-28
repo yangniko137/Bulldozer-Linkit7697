@@ -34,3 +34,6 @@ Bulldozer and bundle with Linkit 7697 and ROBOT Shield
 - Linkit 7697 official web page https://labs.mediatek.com/en
 - Linkit 7697 ADC https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/developer-guide/adc
 - Mini-plan ROBOT Shield https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/kits-and-shields/robot-shield
+
+Regards,
+Niko Yang 2019,11,28 Taiwan 
